@@ -37,9 +37,6 @@
 
 // Ajoutez votre code ici
 let columns = document.querySelectorAll('.collumn'); // liste des colonnes
-let tmp = columns[1].innerHTML; // sauvegarde du contenu de la seconde colonne
-columns[1].innerHTML = columns[3].innerHTML; // remplacement de la seconde par le contenu de la troisème colonne
-columns[3].innerHTML = tmp; // remplacement du la troisième par le contenu de la seconde
 
 
 
