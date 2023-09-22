@@ -26,7 +26,7 @@
    . paramètre ev : l'objet Event transmis par le navigateur lorsqu'il appellera la fonction à la détection d'un 'click'
    > valeur de retour : aucune
 
-  Pour compléter cette fonction, vous pouvez repartir de sa version dans l'exercice 2. Mais il vous faudra par la suite
+  Pour compléter cette fonction, vous pouvez repartir du dernier exercice du TP1. Mais il vous faudra par la suite
   la rectifier (un tout petit peu)
 */
 let handler_clickOnButton = function(ev){
